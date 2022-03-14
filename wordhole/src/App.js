@@ -16,7 +16,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 123123123123123
         </a>
       </FlexView>
     </div>
